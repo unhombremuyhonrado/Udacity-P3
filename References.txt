@@ -1,0 +1,14 @@
+
+I learned a lot from the following sites:
+
+http://code.tutsplus.com/articles/21-ridiculously-impressive-html5-canvas-experiments--net-14210
+http://javascript.info/tutorial/object-oriented-programming
+http://blog.teamtreehouse.com/how-to-draw-with-html5-canvas	
+
+Directions D-pad was taken from this photo (http://img.photobucket.com/albums/v385/Shinranshoni/Banner2-1.jpg which is also included in the images folder) and edited with MSPaint.
+
+Background image came from http://alysiamontano.com/wp-content/uploads/2013/01/Blu-BKGD.jpg
+
+Used info found on http://css-tricks.com/perfect-full-page-background-image/ to position image. 
+
+
